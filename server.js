@@ -1,7 +1,9 @@
 const express = require('express');
 const path = require('path');
 const fs = require('fs');
-const PORT = 3001;
+
+const PORT = process.env.PORT || 3001;
+
 const app = express();
 
 
@@ -49,3 +51,7 @@ fs.readFile('./db', 'utf8', function(err, data){
 
  
 })
+
+app.listen(PORT, () =>
+ console.log(`App listening at http://localhost:${PORT}  🚀`)
+);
