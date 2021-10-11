@@ -40,4 +40,4 @@ Video of this application running.
 https://user-images.githubusercontent.com/87721575/134750432-d1f1d8e4-798b-4e1f-8f77-b3ceca3a2cfe.mp4
 
 ## Contact
-Please find a copy of the deloyed application at the following link  https://annalisambauer.github.io/note-taker-app/public/index.html. Please contact me at annalisa.bauer1@gmail.com with any questions or concerns.
+Please find a copy of the deloyed application at the following link  https://note-taker-heroku2.herokuapp.com/notes. Please contact me at annalisa.bauer1@gmail.com with any questions or concerns.
